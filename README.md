@@ -29,7 +29,7 @@ Then run the following scripts to load the mongodb database and start the main c
 ```
 The code will print out some information about the simulation status. It will take 1.5 to 2 hours to finish. The code will write to some result files in `Data/` and plot some statistical figures to `Figures/`.
 
-To see the interactive visualization on a webpage, you need to run the following script:
+To see the interactive visualizations using force-directed graph for the citation network and cluster structure on a webpage, you need to run the following script:
 ```
 ./visual.sh
 ```
