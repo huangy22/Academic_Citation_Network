@@ -1,0 +1,1 @@
+{"nodes": [{"group": "1046.0", "name": "10.1103/PhysRevLett.100.164502"}, {"group": "1046.0", "name": "10.1103/PhysRevLett.107.215501"}, {"group": "1046.0", "name": "10.1103/PhysRevLett.108.108302"}, {"group": "1046.0", "name": "10.1103/PhysRevLett.98.235501"}], "links": [{"source": 1, "target": 3, "value": 1}]}

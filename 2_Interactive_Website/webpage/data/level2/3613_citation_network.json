@@ -1,0 +1,1 @@
+{"nodes": [{"index": 0, "group": "25", "name": "471", "size": 113}, {"index": 1, "group": "7", "name": "258", "size": 60}, {"index": 2, "group": "17", "name": "412", "size": 47}], "links": [{"source": 2, "target": 1, "value": 1.0}, {"source": 1, "target": 2, "value": 1.0}]}
